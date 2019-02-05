@@ -1,0 +1,63 @@
+/*profe 300 228 1258 pedros@misena.edu.co*/
+
+*{
+	margin: auto;
+	padding: auto;
+}
+body{
+	background: red;
+}
+
+div,ul,li{
+	margin:0 auto;
+	padding:0;
+	list-style:none;
+	border: #ff0000 solid 0px;
+}
+
+.container{
+	width: 100%;
+	margin: 0; 
+	float: left;
+	margin-left: 0px;
+	margin-right: 0px;	
+
+}
+
+#cabecera{
+	background: #000;
+	float: left;
+}
+
+.redes-sociales {
+	float: right;
+	margin: 30px;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+#navbarCollapse{
+	background: #000;
+	float: left;
+	margin:0 auto;
+	padding:0;
+	width: 100%;
+}
+
+.Post{
+	background: #fff;
+}
+
+.Titulo{
+	text-align: center;
+}
+
+
+#imagesComent{
+	width: 100%;
+
+}
+
